@@ -7,3 +7,6 @@ Build a simple header with a working hamburger menu visible on smaller devices. 
 ### Goals:
 
 Practice applying JS to HTML elements to create user interaction.
+
+### Additional Technologies:
+- jQuery
